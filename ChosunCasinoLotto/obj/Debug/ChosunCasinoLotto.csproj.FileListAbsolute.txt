@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\bin\Debug\ChosunCasinoLotto.exe.config
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\bin\Debug\ChosunCasinoLotto.exe
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\bin\Debug\ChosunCasinoLotto.pdb
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.Form1.resources
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.exe
+C:\Users\Administrator\source\repos\ChosunCasinoLotto\ChosunCasinoLotto\obj\Debug\ChosunCasinoLotto.pdb
